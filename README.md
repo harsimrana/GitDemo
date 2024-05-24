@@ -1,4 +1,4 @@
 # GitDemo
 This is demo repo
 <br>
-Author: Harsimranjot
+Author: Harsimranjot Aulakh
